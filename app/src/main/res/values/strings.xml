@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">brewbird</string>
+
+    <string name="screen_list_title">List of breweries</string>
+    <string name="screen_favourites_title">Your favourites</string>
+
+    <string name="details_address">Address:</string>
+    <string name="details_address_format">%s %s, %s</string>
+    <string name="details_button_map">Show on map</string>
+    <string name="details_button_web">Open website</string>
+    <string name="details_button_call">Call brewery</string>
+
+    <string name="filter_title">Filter: %s</string>
+    <string name="filter_none">All</string>
+
+    <string name="content_empty_list">No results for your filter</string>
+    <string name="content_empty_favourites">You don\'t have any favourites yet :(</string>
+
+    <string name="content_error_message">Something terrible has happened</string>
+    <string name="content_error_try_again">Try again</string>
+
+    <string name="button_remove_favourite">Remove from favourites</string>
+    <string name="button_add_favourite">Add to favourites</string>
+</resources>
